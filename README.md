@@ -1,3 +1,1 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+This a react project. In this project , a form is created where the user enter his/her details.After submission the details will be displayed at the bottom with remove option.
